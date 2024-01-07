@@ -1,11 +1,11 @@
 {
-    "name": "guven_store_web_demo",
-    "short_name": "guven_store_web_demo",
+    "name": "guven_store_web",
+    "short_name": "guven_store",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A demo for güven store web site",
+    "description": "Güven Store web site",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
