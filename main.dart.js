@@ -86123,7 +86123,7 @@ A.aAm.prototype={}
 A.qP.prototype={}
 A.MN.prototype={
 K(a){var s=A.ak(a,!0,t.hQ).a
-return new A.Ap(A.es(),"Flutter Demo",s,null)}}
+return new A.Ap(A.es(),"G\xfcven Home Store",s,null)}}
 A.a2g.prototype={
 A1(){var s=0,r=A.E(t.H),q=this,p
 var $async$A1=A.z(function(a,b){if(a===1)return A.B(b,r)
