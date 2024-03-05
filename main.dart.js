@@ -86682,7 +86682,7 @@ a7=A.x(a8,!0,k).w?"Already have an account?":"Zaten hesab\u0131n var m\u0131?"
 A.S()
 return A.dm(q,a,A.CH(A.ad(a,A.hB(B.bn,A.a([n,A.ev(A.a([A.aX(A.ba(A.a([o,A.qN(A.a1(a7,a,a,a,A.aR(a,a,B.h,a,a,a,a,a,a,a,a,10,a,a,B.E,a,a,!0,a,a,a,a,a,a,a,a),a,a),new A.axL(a8),a),A.as(a,30,a)],b),B.l,B.Z,B.n),a,a)],b),a,a,B.B,!0)],b),B.O,B.aX,a),B.e,a,a,a,p,a,a,a),B.B),!0,!0)}}
 A.axI.prototype={
-$0(){var s=null,r=this.b,q=t.w,p=A.y(r,s,q).w.f.d===0?A.y(r,s,q).w.a.b:A.y(r,s,q).w.a.b*0.8-A.y(r,s,q).w.f.d
+$0(){var s=null,r=this.b,q=t.w,p=A.y(r,s,q).w.f.d===0?A.y(r,s,q).w.a.b:A.y(r,s,q).w.a.b*0.6-A.y(r,s,q).w.f.d
 this.a.a=p},
 $S:0}
 A.axJ.prototype={
